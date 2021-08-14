@@ -1,6 +1,6 @@
 ---
 widget: starter.blog.intro
-widget_id: "1"
+widget_id: Homepage
 headless: true
 weight: 10
 title: Wind Storm, Paper, Sunlight
